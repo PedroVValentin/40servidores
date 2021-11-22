@@ -1,7 +1,23 @@
+@font-face {
+    font-family: servant;
+    src: url(fonts/Fontfabric.otf);
+}
+
 body{
-    
+    background-color: black;
+ 
 }
 
 header{
-    background-image: url(cartas/logo.png);
+    font-family: servant, sans-serif;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+img{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
 }
