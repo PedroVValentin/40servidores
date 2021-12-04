@@ -84,10 +84,12 @@ section p{
   border-radius: 10px;
   font-family: 'Poppins', sans-serif;
   text-align: justify;
+  background-color: #f2f2f4f8;
   padding: 20px;
   border: rgba(0, 0, 0, 0.521) solid 1px;
   box-shadow: 4px 6px 5px rgba(0, 0, 0, 0.322) ;
-  width: 700px;
+  max-width: 700px;
+  min-width: 300px;
 }
 
 section h2{
