@@ -115,6 +115,7 @@ section p{
 }
 
 section h2{
+  display: inline-block;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.692);
   background-image: linear-gradient(to right, #f2f2f4f8, transparent);
   margin-top: 30px;
